@@ -1,0 +1,8 @@
+*.fq
+*.bam
+*.bam.bai
+*.sam
+*.log*
+*.depth.txt
+*filename.txt
+
